@@ -8,13 +8,16 @@
 
 ### 📱 手机及平板
 
-- Rwdmi K50 Ultra, 12+256GB
+- Redmi K50 Ultra, 12+256GB
 
 
 ### 🎥 相机及配件
 
 ### 🎧 音箱及耳机
-- OPPO Enco AIR 3
+
+- ~~NETEAST Newbuds 曜石黑~~
+- ~~Redmi AirDots3 Pro曜石黑~~
+- OPPO Enco AIR 3 冰釉白
 
 ### 📦 存储设备
 
@@ -64,7 +67,7 @@
  - Gmail
 - Outlook
 - Tuta
-- 
+- Cock
 ### 📨 信息管理
 
 - Telegram
