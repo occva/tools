@@ -11,7 +11,8 @@
   - ASUS ROG Zephyrus M16, i7-12700h, NVIDIA 3060, 40GB RAM, 1.5T SSD
 
 - 配件
-  - Logitech G304 LIHGTSPEED<sup>TM</sup> 无线游戏鼠标
+  - ~~Logitech G304 LIHGTSPEED<sup>TM</sup> 无线游戏鼠标~~
+  - MCHOSE A5V2 ultra
   - RK SINK87双模
   - ~~小米移动电源3 20000mAh~~
   - ~~Redmi Smart Band 2~~
@@ -21,9 +22,11 @@
 
 - ~~魅蓝 note6, 4+64GB 曜石黑~~
 
-- HONOR 9X, 6+128GB, 冰岛白
+- ~~HONOR 9X, 6+128GB, 冰岛白~~
 
 - Redmi K50 Ultra, 12+256GB，银迹色
+
+-Realme GT7 ，12+256GB，石墨烯雪
 
 
 ### ~~🎥 相机及配件~~
@@ -38,6 +41,3 @@
 - JetBrains PyCharm
 - JetBrains IntelliJ IDEA
 - Visual Studio Code
-  - Monitor Pro
-  - Live Server
-  - Codeium/GitHub Copilot
