@@ -12,10 +12,11 @@
 
 - 配件
   - ~~Logitech G304 LIHGTSPEED<sup>TM</sup> 无线游戏鼠标~~
-  - MCHOSE A5V2 ultra
-  - RK SINK87双模
   - ~~小米移动电源3 20000mAh~~
   - ~~Redmi Smart Band 2~~
+  - MCHOSE A5V2 ultra
+  - RK SINK87双模
+
 
 
 ### 📱 手机及平板
@@ -26,7 +27,7 @@
 
 - Redmi K50 Ultra, 12+256GB，银迹色
 
--Realme GT7 ，12+256GB，石墨烯雪
+- Realme GT7 ，12+256GB，石墨烯雪
 
 
 ### ~~🎥 相机及配件~~
@@ -35,9 +36,11 @@
 
 - ~~NETEAST Newbuds 曜石黑~~
 - ~~Redmi AirDots3 Pro曜石黑~~
+- ~~真我Buds T110~~
 - OPPO Enco AIR 3 冰釉白
 
 ### 👨🏻‍💻 开发工具
 - JetBrains PyCharm
-- JetBrains IntelliJ IDEA
+- Trae/coursor
 - Visual Studio Code
+- JetBrains IntelliJ IDEA
